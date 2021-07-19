@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-Expenses-Website.git/static/css/main.ee162906.chunk.css",
+    "main.js": "/React-Expenses-Website.git/static/js/main.9a9beafc.chunk.js",
+    "main.js.map": "/React-Expenses-Website.git/static/js/main.9a9beafc.chunk.js.map",
+    "runtime-main.js": "/React-Expenses-Website.git/static/js/runtime-main.aff117f5.js",
+    "runtime-main.js.map": "/React-Expenses-Website.git/static/js/runtime-main.aff117f5.js.map",
+    "static/js/2.0b6ef2ad.chunk.js": "/React-Expenses-Website.git/static/js/2.0b6ef2ad.chunk.js",
+    "static/js/2.0b6ef2ad.chunk.js.map": "/React-Expenses-Website.git/static/js/2.0b6ef2ad.chunk.js.map",
+    "index.html": "/React-Expenses-Website.git/index.html",
+    "static/css/main.ee162906.chunk.css.map": "/React-Expenses-Website.git/static/css/main.ee162906.chunk.css.map",
+    "static/js/2.0b6ef2ad.chunk.js.LICENSE.txt": "/React-Expenses-Website.git/static/js/2.0b6ef2ad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aff117f5.js",
+    "static/js/2.0b6ef2ad.chunk.js",
+    "static/css/main.ee162906.chunk.css",
+    "static/js/main.9a9beafc.chunk.js"
+  ]
+}
